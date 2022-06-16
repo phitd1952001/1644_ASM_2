@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\bin\Debug\net5.0\ADT_ASM_2.exe
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\bin\Debug\net5.0\ADT_ASM_2.deps.json
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\bin\Debug\net5.0\ADT_ASM_2.runtimeconfig.json
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\bin\Debug\net5.0\ADT_ASM_2.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\bin\Debug\net5.0\ADT_ASM_2.dll
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\bin\Debug\net5.0\ref\ADT_ASM_2.dll
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\bin\Debug\net5.0\ADT_ASM_2.pdb
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.dll
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ref\ADT_ASM_2.dll
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.pdb
+C:\Users\Dell\Desktop\ApplicationDevelopment\ADT_ASM_2\ADT_ASM_2\obj\Debug\net5.0\ADT_ASM_2.genruntimeconfig.cache
